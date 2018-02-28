@@ -1,0 +1,101 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.button{
+  align-items: center;
+  padding: 0px;
+}
+
+#logo{
+  padding: 0px;
+  margin: 0px;
+}
+
+.mynav{
+/*  background-color: #b760e6;
+  border-color:  #b760e6; */
+    box-shadow: rgb(110,110,110) 3px 3px 10px;
+}
+.mybtn {
+/*  background-color: #3c1f4b;
+  border-color: #3c1f4b;
+  box-shadow: rgb(110,110,110) 3px 3px 10px;*/
+}
+.myBrand{
+  font: 30px bold black;
+}
+.mytext{
+  text-align: center;
+
+}
+.jumbotron {
+  background-image: url(https://img.clipartfest.com/65d512ac982d8b679017bd99814fd629_notebook-paper-backgrounds-notebook-tablet-paper-clipart-background_1280-1007.jpeg);
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.myStyle{
+  background-color: rgba(255, 255,255, 0.8);
+}
+
+.myStyle h1{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: #5cb85c;
+}
+
+.myStyle p{
+  margin: 0px;
+}
+.mycontainer{
+  padding: 0px;
+  margin: 0px 0px 0px 0px;
+  width: auto;
+  background-color: rgba(0, 0, 0, 0.99);
+    box-shadow: rgb(110,110,110) 3px 3px 10px;
+}
+.mydiv1{
+  text-align: center;
+}
+
+.mydiv1 h2{
+color: #5cb85c;
+margin-top: 25px;
+margin-bottom: 25px;
+
+}
+.mydiv1 p{
+  color: white;
+  font-size: 20px;
+}
+
+.mycontainer1{
+  padding: 0px;
+  margin: 0px 0px 0px 0px;
+  width: auto;
+  background-color: rgba(255, 255, 255, 0.99);
+    box-shadow: rgb(110,110,110) 3px 3px 10px;
+}
+.mydiv2{
+  text-align: center;
+}
+
+.mydiv2 h2{
+color: #5cb85c;
+margin-top: 25px;
+margin-bottom: 25px;
+
+}
+.mydiv2 p{
+  color: black;
+  font-size: 20px;
+}
+.footer{
+  height:auto;
+  width: auto;
+  padding: 0px;
+  margin: 0px;
+}
